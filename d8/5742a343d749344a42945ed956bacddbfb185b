@@ -1,0 +1,21 @@
+tests/model_executor/test_gemma4_suppress_tokens.py
+  s_2821af5c1b13cc::t_b886fe6daece51 67-85,87-91
+  s_2821af5c1b13cc::t_3b40b5a2ec0c4c 86
+  s_2821af5c1b13cc::t_ba68c55ede17f5 92-93
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "d85742a343d749344a42945ed956bacddbfb185b",
+  "prompts": {},
+  "sessions": {
+    "s_2821af5c1b13cc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f87f5-8714-7c62-81d7-6a8aff2f7246",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Sidharth Rajmohan <dumko@Shalinis-Mac-mini.local>"
+    }
+  }
+}
