@@ -1,0 +1,29 @@
+vllm/model_executor/models/gemma4_mm.py
+  s_2821af5c1b13cc::t_14ad10901b84ba 85,1139-1140,1142
+vllm/model_executor/models/utils.py
+  s_2821af5c1b13cc::t_14ad10901b84ba 70-82
+vllm/model_executor/models/gemma4_unified.py
+  s_2821af5c1b13cc::t_14ad10901b84ba 56,352-353,355
+vllm/model_executor/models/gemma4_mtp.py
+  s_2821af5c1b13cc::t_14ad10901b84ba 56,534-535,537
+tests/model_executor/test_gemma4_suppress_tokens.py
+  s_2821af5c1b13cc::t_5dd3f8587d648e 9
+  s_2821af5c1b13cc::t_14ad10901b84ba 13-16,24-28,47-78,87
+  s_2821af5c1b13cc::t_5111b8961b0287 86
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "63707c9eb6e53cdea38045fc7bd9c5f5b9422ad6",
+  "prompts": {},
+  "sessions": {
+    "s_2821af5c1b13cc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f87f5-8714-7c62-81d7-6a8aff2f7246",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Sidharth Rajmohan <dumko@Shalinis-Mac-mini.local>"
+    }
+  }
+}
