@@ -1,0 +1,20 @@
+tests/model_executor/test_flashinfer_b12x_moe.py
+  s_2821af5c1b13cc::t_1a2a6819b339dd 17-18
+  s_2821af5c1b13cc::t_36aaaa419a969b 25-28,40-42,53,58,63,70-71,80-81,96,108-109
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "c3a75626a3c64705f0f179731d1d17ca98352320",
+  "prompts": {},
+  "sessions": {
+    "s_2821af5c1b13cc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f87f5-8714-7c62-81d7-6a8aff2f7246",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Sidharth Rajmohan <dumko@Shalinis-Mac-mini.local>"
+    }
+  }
+}
