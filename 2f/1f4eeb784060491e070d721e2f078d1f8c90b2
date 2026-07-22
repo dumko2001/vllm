@@ -1,0 +1,19 @@
+tests/v1/worker/test_gpu_input_batch.py
+  s_2821af5c1b13cc::t_1f9d154a2e2d6e 522,554-555
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "2f1f4eeb784060491e070d721e2f078d1f8c90b2",
+  "prompts": {},
+  "sessions": {
+    "s_2821af5c1b13cc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f87f5-8714-7c62-81d7-6a8aff2f7246",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Sidharth Rajmohan <dumko@Shalinis-Mac-mini.local>"
+    }
+  }
+}
