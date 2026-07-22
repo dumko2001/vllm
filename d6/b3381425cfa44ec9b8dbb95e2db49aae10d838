@@ -1,0 +1,35 @@
+tests/v1/attention/test_attention_backends.py
+  s_2821af5c1b13cc::t_64a7bb858fc00b 35,58-66,69-97
+  s_2821af5c1b13cc::t_5309a020237ef0 67-68,98,105
+  s_2821af5c1b13cc::t_ad221bdd863cc4 106-107
+  s_2821af5c1b13cc::t_2af564d4266743 99-104
+vllm/v1/attention/backends/utils.py
+  s_2821af5c1b13cc::t_182f2db470444d 19,53-54,60,73-74
+vllm/v1/attention/backends/triton_attn.py
+  s_2821af5c1b13cc::t_757d41fe1d698e 254-257
+vllm/v1/attention/ops/triton_unified_attention.py
+  s_2821af5c1b13cc::t_e2c9f01a60261a 222,911,1141
+  s_2821af5c1b13cc::t_dad1ec755e7063 915-922
+tests/kernels/attention/test_triton_unified_attention.py
+  s_2821af5c1b13cc::t_489021a6f866fd 5-6,11,94,105,112-119,121,129,131,140,142-148,209-210
+  s_2821af5c1b13cc::t_5309a020237ef0 122-128,133,149-159,161-168,178-179,183-197,203-207
+  s_2821af5c1b13cc::t_2af564d4266743 141
+  s_2821af5c1b13cc::t_914a33c3d2d1d0 174
+  s_2821af5c1b13cc::t_84b629443e23cc 95-104,106-111,120,130,132,134-139,160,169-173,175-177,180-182,198-202,208
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "d6b3381425cfa44ec9b8dbb95e2db49aae10d838",
+  "prompts": {},
+  "sessions": {
+    "s_2821af5c1b13cc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f87f5-8714-7c62-81d7-6a8aff2f7246",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    }
+  }
+}
