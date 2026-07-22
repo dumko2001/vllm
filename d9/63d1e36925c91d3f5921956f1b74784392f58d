@@ -1,0 +1,24 @@
+tests/v1/attention/test_fa_batch_invariant.py
+  s_2821af5c1b13cc::t_2c260fc8ce2d66 5,8,10-12,20-24,31-53,55-64,66-68
+  s_2821af5c1b13cc::t_7427cee9c4fd7b 69
+tests/v1/determinism/utils.py
+  s_2821af5c1b13cc::t_2c260fc8ce2d66 47
+vllm/v1/attention/backends/mla/flashattn_mla.py
+  s_2821af5c1b13cc::t_2c260fc8ce2d66 69
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "d963d1e36925c91d3f5921956f1b74784392f58d",
+  "prompts": {},
+  "sessions": {
+    "s_2821af5c1b13cc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f87f5-8714-7c62-81d7-6a8aff2f7246",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Sidharth Rajmohan <dumko@Shalinis-Mac-mini.local>"
+    }
+  }
+}
